@@ -11,11 +11,11 @@
 
 <details>
   <summary><b><h2>Github Stats ⚡️ <h2></b></summary>
-  <a href="https://github.com/baxodirabdurazzoqov">
+  <a href="https://github.com/qwertyuiop">
     <p align="left">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baxodirabdurazzoqov&theme=github_dark">
-      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baxodirabdurazzoqov&theme=github_dark">
-      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baxodirabdurazzoqov&theme=github_dark&utcOffset=5"><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qwertyuiop&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qwertyuiop&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qwertyuiop&theme=github_dark&utcOffset=5"><br>
     </p>
   </a> 
 </details>
