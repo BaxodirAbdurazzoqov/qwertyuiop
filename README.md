@@ -2,6 +2,7 @@
 <p>Hey! 👋 I'm Bahodir Abdurazzoqov (baxodirabdurazzoqov).</p>
 
 - Telegram:                           [bahodirabdurazzoqov](https://t.me/abdurazzoqov_0745)
+- Instagram:                           [bahodirabdurazzoqov](https://www.instagram.com/abdurazzoqov_0745/?next=%2F)
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,github)](https://skillicons.dev)
 
